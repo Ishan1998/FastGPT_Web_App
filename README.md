@@ -3,8 +3,8 @@
 # Description
 <i>FastGPT is a free, open-source implementation of the GPT architecture that requires no account and offers unlimited usage. It provides rapid text generation and high performance through an easy-to-use API. 
 
-# Note:
-<b>If getting this error : Unable to fetch response, click this [link](https://cors-anywhere.herokuapp.com/) in your browser only once and then you are good to go.
+# ⚠️ Important text:
+<b>If getting this error : "Unable to fetch response", click this [link](https://cors-anywhere.herokuapp.com/) in your browser only once and then you are good to go.
 
 
 # Links:
